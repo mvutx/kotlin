@@ -1,0 +1,10 @@
+fun main(){
+    // conditional statements 
+    // if condition statement :it executes a piece of code when the condition evaluates to true 
+
+    val number = 20
+
+    if (number > 0){
+        println("the number is positive.")
+    }
+}

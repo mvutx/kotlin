@@ -1,13 +1,13 @@
 fun main(){
     // addition
-    val number1 = 20
-    val number2 = 10
-    val sum = number1 + number2
+    val number1: Int = 20
+    val number2: Int = 10
+    val sum : Int= number1 + number2
 
     println("Addition = $sum")
     //
 
     // subtraction  
-    val difference = number1 - number2
+    val difference: Int = number1 - number2
     println("Difference = $difference")
 }
